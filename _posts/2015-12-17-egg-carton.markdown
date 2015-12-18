@@ -4,9 +4,9 @@ slug: Health
 title:  "Doctor Treats Homebound Patients, Often Unseen Even By Neighbors"
 date:   2015-12-17 11:18:36
 byline: Misha Friedman
-prototype-title: Multimedia Grid Exploration
+prototype-title: Egg Carton Iterations
 prototyped-by: Josh
-prototype-desc: Exploring different ways in which we could build 'smart' image containers for NPR.org. Can an image container in Seamus know to display two images side by side?
+prototype-desc: Iterating on the story page egg carton design for the 2016 NPR.org redesign. Final choices were &#35;1 & &#35;4. Also interested in &#35;10-&#35;14.
 ---
 
 ![image](http://media.npr.org/assets/img/2015/10/13/mobile-doctor-1_custom-c1df33688cb42361b39751e7d61de4ebfd42d404-s2500-c85.jpg)
