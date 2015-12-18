@@ -1,0 +1,15 @@
+title: Prototype @ NPR
+description:
+station: WAMU 88.5
+nav:
+- title: news
+- title: arts & life
+- title: music
+- title: programs
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: nprdesign
+
+# Build settings
+markdown: kramdown

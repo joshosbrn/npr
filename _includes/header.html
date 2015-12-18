@@ -1,0 +1,24 @@
+<header class="site-header">
+
+  <div class="wrapper">
+    <div class="nav">
+
+      <!-- General color logo -->
+      <a href="/">
+          <img src="http://media.npr.org/chrome/news/npr-home.png" class="logo" alt="NPR logo"/>
+      </a>
+
+      <ul class="links">
+        <li>
+          <a href="#">{{ site.station }}</a>
+        </li>
+        {% for nav in site.nav %}
+          <li>
+            <a href="#">{{ nav.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+</header>

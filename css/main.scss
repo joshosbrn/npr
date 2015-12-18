@@ -1,0 +1,93 @@
+---
+#
+---
+@charset "utf-8";
+
+// Type
+$fontStackGotham: 'Gotham SSm', Helvetica, Arial, sans-serif;
+$fontStackKnockout: 'Knockout 31 4r', HelveticaNeue-CondensedBold, Helvetica, Arial, sans-serif;
+$fontStackSerif: Georgia, serif;
+$fontStackSansSerif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+// Colors
+// Music Spectrum
+$spectrumColor1: #f97450;
+$spectrumColor2: #f05b4e;
+$spectrumColor3: #ce4242;
+$spectrumColor4: #b73759;
+$spectrumColor5: #933256;
+$spectrumColor6: #7b2c62;
+$spectrumColor7: #653279;
+$spectrumColor8: #524189;
+$spectrumColor9: #5756a5;
+$spectrumColor10: #416ab8;
+
+// Main Colors
+$inlineLink: #4774cc;
+$primaryControl: #6d8ac4; // ye oldest blue in the responsive world
+$secondaryControl: #bccae5; // second oldest blue in the responsive world
+$heaviestGray: #777;
+$heavierGray: #999;
+$heavyGray: #e0e0e0;
+$lightGray: #ebebeb;
+$brandingGray: #7c7c7c;
+$textColor: #333;
+$darkHover: #4065a2;
+$deepBlue: #7598c9;
+$deeperBlue: #7995CE;
+$nprBlack: #000017;
+$playButtonHover: #87a0d3;
+
+// Grid
+$totalColumns: 12;
+$columnGutter: 30px;
+$oneCol: percentage(1/12);
+$twoCol: percentage(2/12);
+$lockWidth: 680px; // 650px target width + 15px padding on both sides (30px total) using border-box model
+$multimediaLockWidth: 730px;
+
+// Our variables
+$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;
