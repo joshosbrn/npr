@@ -3,10 +3,10 @@
   <channel>
     <title>Prototype @ NPR</title>
     <description></description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Dec 2015 22:51:44 -0500</pubDate>
-    <lastBuildDate>Thu, 17 Dec 2015 22:51:44 -0500</lastBuildDate>
+    <link>/prototype-npr-www/</link>
+    <atom:link href="/prototype-npr-www/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 17 Dec 2015 23:13:58 -0500</pubDate>
+    <lastBuildDate>Thu, 17 Dec 2015 23:13:58 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -29,19 +29,19 @@
 
 &lt;div class=&quot;image-container&quot;&gt;
   &lt;div class=&quot;two&quot;&gt;
-    &lt;img class=&quot;left&quot; src=&quot;/images/grid-photo-01.jpg&quot; /&gt;
+    &lt;img class=&quot;left&quot; src=&quot;/prototype-npr-www/images/grid-photo-01.jpg&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;two&quot;&gt;
-    &lt;img class=&quot;right&quot; src=&quot;/images/grid-photo-02.jpg&quot; /&gt;
+    &lt;img class=&quot;right&quot; src=&quot;/prototype-npr-www/images/grid-photo-02.jpg&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;image-container&quot;&gt;
   &lt;div class=&quot;two&quot;&gt;
-    &lt;img class=&quot;left&quot; src=&quot;/images/grid-photo-04.jpg&quot; /&gt;
+    &lt;img class=&quot;left&quot; src=&quot;/prototype-npr-www/images/grid-photo-04.jpg&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;two&quot;&gt;
-    &lt;img class=&quot;right&quot; src=&quot;/images/grid-photo-05.jpg&quot; /&gt;
+    &lt;img class=&quot;right&quot; src=&quot;/prototype-npr-www/images/grid-photo-05.jpg&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -58,13 +58,9 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 17 Dec 2015 06:18:36 -0500</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/12/17/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/12/17/welcome-to-jekyll.html</guid>
+        <link>/prototype-npr-www/2015/12/17/multimedia-layout.html</link>
+        <guid isPermaLink="true">/prototype-npr-www/2015/12/17/multimedia-layout.html</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     

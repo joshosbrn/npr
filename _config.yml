@@ -8,7 +8,7 @@ nav:
 - title: programs
 
 baseurl: "/prototype-npr-www" # the subpath of your site, e.g. /blog/
-url: "http://joshosbrn.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: nprdesign
 
 # Build settings

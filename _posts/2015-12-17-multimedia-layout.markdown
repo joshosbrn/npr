@@ -4,7 +4,6 @@ slug: Health
 title:  "Doctor Treats Homebound Patients, Often Unseen Even By Neighbors"
 date:   2015-12-17 11:18:36
 byline: Misha Friedman
-categories: jekyll update
 ---
 
 ![image](http://media.npr.org/assets/img/2015/10/13/mobile-doctor-1_custom-c1df33688cb42361b39751e7d61de4ebfd42d404-s2500-c85.jpg)
@@ -25,19 +24,19 @@ categories: jekyll update
 
 <div class="image-container">
   <div class="two">
-    <img class="left" src="/images/grid-photo-01.jpg">
+    <img class="left" src="{{ site.baseurl }}/images/grid-photo-01.jpg">
   </div>
   <div class="two">
-    <img class="right" src="/images/grid-photo-02.jpg">
+    <img class="right" src="{{ site.baseurl }}/images/grid-photo-02.jpg">
   </div>
 </div>
 
 <div class="image-container">
   <div class="two">
-    <img class="left" src="/images/grid-photo-04.jpg">
+    <img class="left" src="{{ site.baseurl }}/images/grid-photo-04.jpg">
   </div>
   <div class="two">
-    <img class="right" src="/images/grid-photo-05.jpg">
+    <img class="right" src="{{ site.baseurl }}/images/grid-photo-05.jpg">
   </div>
 </div>
 
