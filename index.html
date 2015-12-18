@@ -4,16 +4,21 @@ layout: default
 
 <div class="home">
 
-  <p>Welcome to the NPR.org Prototyping Kit — powered by Jekyll.</p>
+  <img class="home-icon" src="{{ site.baseurl }}/images/smile-guy-npr.svg">
+
+  <p class="intro">Welcome to the NPR.org Prototyping Kit — powered by Jekyll. Get started by creating a new prototype in the 'Posts' folder of the main directory. Have fun!</p>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.prototype-title }}</a><span class="by">by {{ post.prototyped-by }}</span>
         </h2>
+        <div class="prototype-desc">
+          {{ post.prototype-desc }}
+          <p class="template">Using the <b>{{ post.layout }}</b> template</p>
+        </div>
+
       </li>
     {% endfor %}
   </ul>
