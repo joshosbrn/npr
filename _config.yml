@@ -10,6 +10,7 @@ nav:
 baseurl: "/prototype-npr-www" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username: nprdesign
+permalink: none
 
 # Build settings
 markdown: kramdown
