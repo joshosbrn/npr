@@ -14,7 +14,7 @@ prototype-desc: This prototype was created to explore some ideas around bringing
     <h1>Page Not Found</h1>
     <h4>It's a shame that your page is lost, but at least it's in good company.</h4>
 
-    <img class="image" src="/images/earhart.jpg">
+    <img class="image" src="{{ site.baseurl }}/images/earhart.jpg">
     <p>Researchers are still trying to figure out what happened to aviator Amelia Earhart, who disappeared while flying over the South Pacific in 1937.</p>
 
     <h4>Learn about <a href="#">a lead in the search for Amelia Earhart</a>.</h4>
