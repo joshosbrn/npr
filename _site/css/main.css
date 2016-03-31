@@ -4,13 +4,14 @@
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
-  margin: 0; }
+  margin: 0;
+  font-family: "Gotham SSm", Helvetica, Arial, sans-serif; }
 
 /**
  * Basic styling
  */
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Gotham SSm", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
@@ -138,12 +139,18 @@ pre {
 .clear {
   clear: none; }
 
+.wrapper {
+  padding-bottom: 19px; }
+
 .nav {
-  padding: 17px 10px 19px 11px;
+  padding: 17px 10px 0 11px;
   font-family: "Gotham SSm", Helvetica, Arial, sans-serif;
   font-weight: bold;
   max-width: 50%;
   letter-spacing: .01em; }
+  @media screen and (max-width: 600px) {
+    .nav .links {
+      display: none; } }
   .nav ul {
     padding: 2px 0 0 80px;
     list-style-type: none;
@@ -390,6 +397,9 @@ pre {
   font-family: "Gotham SSm", Helvetica, Arial, sans-serif;
   margin: 8px 0 0 0; }
 
+a:visited {
+  color: #6d8ac4; }
+
 /**
  * Syntax highlighting styles
  */
@@ -528,3 +538,22 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.not-found .wrapper {
+  max-width: 600px;
+  margin: 10% auto; }
+.not-found .image {
+  max-width: 150px;
+  margin: 0 20px 0 0;
+  float: left; }
+.not-found h1, .not-found h2, .not-found h3, .not-found h4, .not-found h5, .not-found h6 {
+  margin-bottom: 5px; }
+.not-found h1 {
+  font-size: 1.7em; }
+.not-found h4 {
+  font-size: .8em;
+  margin: 0 0 20px 0; }
+.not-found p {
+  font-size: 1.2rem; }
+.not-found a:hover {
+  text-decoration: none; }
