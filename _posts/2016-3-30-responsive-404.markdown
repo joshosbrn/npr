@@ -1,9 +1,7 @@
 ---
-layout: no-rail
-slug: Health
-title:  "Doctor Treats Homebound Patients, Often Unseen Even By Neighbors"
+layout: rail
+title:  "Page Not Found"
 date:   2016-3-30 11:18:36
-byline: Misha Friedman
 prototype-title: Responsive 404 Page
 prototyped-by: Josh
 prototype-desc: This prototype was created to explore some ideas around bringing NPR's 404 page into the responsive ecosystem. (One of the last pages to do so)
