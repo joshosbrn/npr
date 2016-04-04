@@ -5,191 +5,191 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Apr 2016 15:06:31 -0400</pubDate>
-    <lastBuildDate>Fri, 01 Apr 2016 15:06:31 -0400</lastBuildDate>
+    <pubDate>Mon, 04 Apr 2016 09:48:16 -0400</pubDate>
+    <lastBuildDate>Mon, 04 Apr 2016 09:48:16 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Programs</title>
-        <description>&lt;div class=&quot;&quot;&gt;
+        <description>&lt;div class=&quot;program-wrapper&quot;&gt;
   &lt;ul class=&quot;news-programs&quot;&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Morning Edition&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;All Things Considered&lt;/h1&gt;
-      &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
+      &lt;p&gt;Every weekday, All Things Considered hosts Robert Siegel, Audie Cornish, Ari Shapiro, and Kelly McEvers present the program&#39;s trademark mix of news, interviews, commentaries, reviews, and offbeat features. Michel Martin hosts on the weekends.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Fresh Air&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Here &amp;amp; Now&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Embedded&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Latino USA&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;On Point&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Weekend Edition Saturday&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Weekend Edition Sunday&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Youth Radio&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Ask Me Another&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;The Best Of Car Talk&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Bullseye&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Hidden Brain&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;How To Do Everything&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Invisiblia&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Only A Game&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Planet Money&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Pop Culture Happy Hour&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Snap Judgement&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Storycorps&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Ted Radio Hour&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Wait Wait... Don&#39;t Tell Me!&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;First Listen&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Songs We Love&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Tiny Desk&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Alt Latino&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;From The Top&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Jazz Night In America&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Metropolis&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Microphone Check&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Mountain Stage&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Piano Jazz&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;Song Travels&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;The Thistle &amp;amp; Shamrock&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;
     
-      &lt;li&gt;
+      &lt;li class=&quot;program&quot;&gt;
       &lt;h1 class=&quot;title&quot;&gt;World Cafe&lt;/h1&gt;
       &lt;p&gt;Every weekday for over three decades, NPR&#39;s Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.&lt;/p&gt;
       &lt;/li&gt;

@@ -4,7 +4,7 @@
   hosts:
 
 - name: All Things Considered
-  description: Every weekday for over three decades, NPR's Morning Edition has taken listeners around the country and the world with two hours of multi-faceted stories and commentaries that inform, challenge and occasionally amuse. Morning Edition is the most listened-to news radio program in the country.
+  description: Every weekday, All Things Considered hosts Robert Siegel, Audie Cornish, Ari Shapiro, and Kelly McEvers present the program's trademark mix of news, interviews, commentaries, reviews, and offbeat features. Michel Martin hosts on the weekends.
   category: news-interviews
   hosts:
 

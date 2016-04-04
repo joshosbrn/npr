@@ -557,3 +557,43 @@ a:visited {
   font-size: 1.2rem; }
 .not-found a:hover {
   text-decoration: none; }
+
+.program-wrapper {
+  margin: 0 335px 0 20px; }
+
+.program {
+  list-style-type: none;
+  margin-bottom: 30px;
+  margin-right: 2em; }
+  .program h1 {
+    font-size: 1.5em;
+    line-height: 1.2em; }
+  .program p {
+    font-size: .8em; }
+
+.news-programs {
+  -moz-column-count: 3;
+  -moz-column-gap: 20px;
+  -webkit-column-count: 3;
+  -webkit-column-gap: 20px;
+  column-count: 3;
+  column-gap: 20px; }
+
+.not-found .wrapper {
+  max-width: 600px;
+  margin: 10% auto; }
+.not-found .image {
+  max-width: 150px;
+  margin: 0 20px 0 0;
+  float: left; }
+.not-found h1, .not-found h2, .not-found h3, .not-found h4, .not-found h5, .not-found h6 {
+  margin-bottom: 5px; }
+.not-found h1 {
+  font-size: 1.7em; }
+.not-found h4 {
+  font-size: .8em;
+  margin: 0 0 20px 0; }
+.not-found p {
+  font-size: 1.2rem; }
+.not-found a:hover {
+  text-decoration: none; }
