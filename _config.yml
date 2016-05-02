@@ -7,7 +7,7 @@ nav:
 - title: music
 - title: programs
 
-baseurl: "/prototype-npr-www" # the subpath of your site, e.g. /blog/
+baseurl: "/npr" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username: nprdesign
 permalink: none
