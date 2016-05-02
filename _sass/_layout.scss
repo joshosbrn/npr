@@ -3,6 +3,10 @@
     float: left;
     max-width: 48%;
     padding: 0 1%;
+    @include media-query($on-palm) {
+      float: none;
+      max-width: 98%;
+    }
   }
 }
 
@@ -13,6 +17,9 @@
   max-width: 50%;
   padding-left: 1%;
   color: rgb(71, 71, 71);
+  @include media-query($on-palm) {
+    max-width: 98%;
+  }
   .title {
     line-height: 1.1em;
     margin-bottom: 20px;

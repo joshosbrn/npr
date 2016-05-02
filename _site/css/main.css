@@ -143,11 +143,18 @@ pre {
   float: left;
   max-width: 48%;
   padding: 0 1%; }
+  @media screen and (max-width: 600px) {
+    .npr-music-images img {
+      float: none;
+      max-width: 98%; } }
 
 .meta {
   max-width: 50%;
   padding-left: 1%;
   color: #474747; }
+  @media screen and (max-width: 600px) {
+    .meta {
+      max-width: 98%; } }
   .meta .title {
     line-height: 1.1em;
     margin-bottom: 20px;
