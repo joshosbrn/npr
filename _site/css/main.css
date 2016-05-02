@@ -139,6 +139,28 @@ pre {
 .clear {
   clear: none; }
 
+.npr-music-images {
+  clear: both; }
+  .npr-music-images img {
+    float: left;
+    max-width: 48%;
+    padding: 0 1%; }
+    .npr-music-images img:nth-child(96n) {
+      clear: left; }
+
+.section {
+  margin-bottom: 100px; }
+
+.meta {
+  max-width: 500px;
+  padding-left: 1%; }
+  .meta h2 {
+    line-height: 1.1em;
+    margin-bottom: 20px;
+    color: #474747; }
+  .meta p {
+    line-height: 1.7em; }
+
 .wrapper {
   padding-bottom: 19px; }
 

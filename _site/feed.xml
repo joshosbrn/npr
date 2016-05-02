@@ -3,10 +3,10 @@
   <channel>
     <title>Prototype @ NPR</title>
     <description></description>
-    <link>/prototype-npr-www/</link>
-    <atom:link href="/prototype-npr-www/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 May 2016 00:06:30 -0400</pubDate>
-    <lastBuildDate>Mon, 02 May 2016 00:06:30 -0400</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 02 May 2016 00:38:19 -0400</pubDate>
+    <lastBuildDate>Mon, 02 May 2016 00:38:19 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -24,8 +24,72 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 30 Mar 2016 07:18:36 -0400</pubDate>
-        <link>/prototype-npr-www/2016/03/30/Health.html</link>
-        <guid isPermaLink="true">/prototype-npr-www/2016/03/30/Health.html</guid>
+        <link>/2016/03/30/Health.html</link>
+        <guid isPermaLink="true">/2016/03/30/Health.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Doctor Treats Homebound Patients, Often Unseen Even By Neighbors</title>
+        <description>&lt;div class=&quot;section&quot;&gt;
+  &lt;div class=&quot;meta&quot;&gt;
+    &lt;h2&gt;Concept 1: Concert Background as Texture&lt;/h2&gt;
+    &lt;p&gt;Spotify&#39;s playlist art often features a duotone image with knocked out text on top. As a first exploration, I tried out some concert photography with a couple of variations of the Songs We Love logo on top. Where I usually might hesitate to do something so on-the-nose, I think mimicking Spotify&#39;s style and using these background images more as textures might be really nice.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;npr-music-images&quot;&gt;
+    &lt;img src=&quot;/images/npr-music-spotify/npr-music-spotify-2016-01.jpg&quot; /&gt;
+    &lt;img src=&quot;/images/npr-music-spotify/npr-music-spotify-2016-02.jpg&quot; /&gt;
+    &lt;img src=&quot;/images/npr-music-spotify/npr-music-spotify-2016-03.jpg&quot; /&gt;
+    &lt;img src=&quot;/images/npr-music-spotify/npr-music-spotify-2016-04.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;section&quot;&gt;
+  &lt;div class=&quot;meta&quot;&gt;
+    &lt;h2&gt;Concept 2: Shape &amp;amp; Texture&lt;/h2&gt;
+    &lt;p&gt;Another thing I wanted to pick on after reviewing some of Spotify&#39;s more recent featured playlists was the idea of creating an abstract pattern to use as a background. This feels like a bit of a departure from the NPR Music style, but could fit nicely with some of the more illustrative Spotify art. I also added some film grain to warm these up a little bit.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;npr-music-images&quot;&gt;
+    &lt;img src=&quot;/images/npr-music-spotify/npr-music-spotify-2016-05.jpg&quot; /&gt;
+    &lt;img src=&quot;/images/npr-music-spotify/npr-music-spotify-2016-06.jpg&quot; /&gt;
+    &lt;img src=&quot;/images/npr-music-spotify/npr-music-spotify-2016-07.jpg&quot; /&gt;
+    &lt;img src=&quot;/images/npr-music-spotify/npr-music-spotify-2016-08.jpg&quot; /&gt;
+    &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;section&quot;&gt;
+  &lt;div class=&quot;meta&quot;&gt;
+    &lt;h2&gt;Both Ideas with NPR Music Logo Only&lt;/h2&gt;
+    &lt;p&gt;It was mentioned at some point that we might want this to feature the NPR Music branding more prominently and not use a sub-brand for the promoted playlist. Here are a few variations on the earlier concepts, but without explicit SWL branding.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;npr-music-images&quot;&gt;
+    &lt;img src=&quot;/images/npr-music-spotify/npr-music-spotify-2016-09.jpg&quot; /&gt;
+    &lt;img src=&quot;/images/npr-music-spotify/npr-music-spotify-2016-10.jpg&quot; /&gt;
+    &lt;img src=&quot;/images/npr-music-spotify/npr-music-spotify-2016-11.jpg&quot; /&gt;
+    &lt;img src=&quot;/images/npr-music-spotify/npr-music-spotify-2016-12.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;section&quot;&gt;
+  &lt;div class=&quot;meta&quot;&gt;
+    &lt;h2&gt;Another Pattern Based Background&lt;/h2&gt;
+    &lt;p&gt;Some stuff about the concept goes here.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;npr-music-images&quot;&gt;
+    &lt;img src=&quot;/images/npr-music-spotify/npr-music-spotify-2016-13.jpg&quot; /&gt;
+    &lt;img src=&quot;/images/npr-music-spotify/npr-music-spotify-2016-14.jpg&quot; /&gt;
+    &lt;img src=&quot;/images/npr-music-spotify/npr-music-spotify-2016-15.jpg&quot; /&gt;
+    &lt;img src=&quot;/images/npr-music-spotify/npr-music-spotify-2016-16.jpg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;.site-header {display: none;} .site-footer {display: none;}&lt;/style&gt;
+
+</description>
+        <pubDate>Thu, 17 Dec 2015 06:18:36 -0500</pubDate>
+        <link>/2015/12/17/Health.html</link>
+        <guid isPermaLink="true">/2015/12/17/Health.html</guid>
         
         
       </item>
@@ -50,19 +114,19 @@
 
 &lt;div class=&quot;image-container&quot;&gt;
   &lt;div class=&quot;two&quot;&gt;
-    &lt;img class=&quot;left&quot; src=&quot;/prototype-npr-www/images/grid-photo-01.jpg&quot; /&gt;
+    &lt;img class=&quot;left&quot; src=&quot;/images/grid-photo-01.jpg&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;two&quot;&gt;
-    &lt;img class=&quot;right&quot; src=&quot;/prototype-npr-www/images/grid-photo-02.jpg&quot; /&gt;
+    &lt;img class=&quot;right&quot; src=&quot;/images/grid-photo-02.jpg&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;image-container&quot;&gt;
   &lt;div class=&quot;two&quot;&gt;
-    &lt;img class=&quot;left&quot; src=&quot;/prototype-npr-www/images/grid-photo-04.jpg&quot; /&gt;
+    &lt;img class=&quot;left&quot; src=&quot;/images/grid-photo-04.jpg&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;two&quot;&gt;
-    &lt;img class=&quot;right&quot; src=&quot;/prototype-npr-www/images/grid-photo-05.jpg&quot; /&gt;
+    &lt;img class=&quot;right&quot; src=&quot;/images/grid-photo-05.jpg&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -79,8 +143,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 17 Dec 2015 06:18:36 -0500</pubDate>
-        <link>/prototype-npr-www/2015/12/17/Health.html</link>
-        <guid isPermaLink="true">/prototype-npr-www/2015/12/17/Health.html</guid>
+        <link>/2015/12/17/Health.html</link>
+        <guid isPermaLink="true">/2015/12/17/Health.html</guid>
         
         
       </item>
@@ -105,19 +169,19 @@
 
 &lt;div class=&quot;image-container&quot;&gt;
   &lt;div class=&quot;two&quot;&gt;
-    &lt;img class=&quot;left&quot; src=&quot;/prototype-npr-www/images/grid-photo-01.jpg&quot; /&gt;
+    &lt;img class=&quot;left&quot; src=&quot;/images/grid-photo-01.jpg&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;two&quot;&gt;
-    &lt;img class=&quot;right&quot; src=&quot;/prototype-npr-www/images/grid-photo-02.jpg&quot; /&gt;
+    &lt;img class=&quot;right&quot; src=&quot;/images/grid-photo-02.jpg&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;image-container&quot;&gt;
   &lt;div class=&quot;two&quot;&gt;
-    &lt;img class=&quot;left&quot; src=&quot;/prototype-npr-www/images/grid-photo-04.jpg&quot; /&gt;
+    &lt;img class=&quot;left&quot; src=&quot;/images/grid-photo-04.jpg&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;two&quot;&gt;
-    &lt;img class=&quot;right&quot; src=&quot;/prototype-npr-www/images/grid-photo-05.jpg&quot; /&gt;
+    &lt;img class=&quot;right&quot; src=&quot;/images/grid-photo-05.jpg&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -134,8 +198,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 17 Dec 2015 06:18:36 -0500</pubDate>
-        <link>/prototype-npr-www/2015/12/17/Health.html</link>
-        <guid isPermaLink="true">/prototype-npr-www/2015/12/17/Health.html</guid>
+        <link>/2015/12/17/Health.html</link>
+        <guid isPermaLink="true">/2015/12/17/Health.html</guid>
         
         
       </item>

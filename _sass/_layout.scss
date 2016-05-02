@@ -1,3 +1,32 @@
+.npr-music-images {
+  clear: both;
+  img {
+    float: left;
+    max-width: 48%;
+    padding: 0 1%;
+    &:nth-child(96n) {
+      clear: left;
+    }
+  }
+}
+
+.section {
+  margin-bottom: 100px;
+}
+
+.meta {
+  max-width: 500px;
+  padding-left: 1%;
+  h2 {
+    line-height: 1.1em;
+    margin-bottom: 20px;
+    color: rgb(71, 71, 71);
+  }
+  p {
+    line-height: 1.7em;
+  }
+}
+
 .wrapper {
   padding-bottom: 19px;
 }
