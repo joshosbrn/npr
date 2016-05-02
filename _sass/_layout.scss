@@ -1,29 +1,39 @@
 .npr-music-images {
-  clear: both;
   img {
     float: left;
     max-width: 48%;
     padding: 0 1%;
-    &:nth-child(96n) {
-      clear: left;
-    }
   }
 }
 
 .section {
-  margin-bottom: 100px;
 }
 
 .meta {
-  max-width: 500px;
+  max-width: 50%;
   padding-left: 1%;
+  color: rgb(71, 71, 71);
+  .title {
+    line-height: 1.1em;
+    margin-bottom: 20px;
+    font-size: 2em;
+    clear: both;
+    padding-top: 100px;
+  }
+  .first {
+    padding-top: 0;
+  }
   h2 {
     line-height: 1.1em;
     margin-bottom: 20px;
-    color: rgb(71, 71, 71);
+    clear: both;
+    margin-top: 100px;
+
   }
   p {
     line-height: 1.7em;
+    margin: 0 0 20px 0;
+    font-size: .9em;
   }
 }
 
@@ -283,7 +293,7 @@
 }
 
 .post-content {
-    margin: 40px 0;
+    margin: 0 0 40px 0;
     padding: 0 30px;
     @include media-query($on-palm) {
         padding: 0;
